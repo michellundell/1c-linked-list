@@ -1,3 +1,9 @@
+/**
+ * 1c.c
+ * Example linked list.
+ * M.Lundell
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
